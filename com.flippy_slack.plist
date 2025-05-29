@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.flippy.slack</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/flippackstation5/python_scripts/flippy_slack/venv/bin/python3</string>
+        <string>/Users/flippackstation5/python_scripts/flippy_slack/flippyslack.py</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>21600</integer> <!-- six hours -->
+    <key>StandardErrorPath</key>
+    <string>/Users/flippackstation5/python_scripts/flippy_slack/flippy.err</string>
+    <key>StandardOutPath</key>
+    <string>/Users/flippackstation5/python_scripts/flippy_slack/flippy.out</string>
+</dict>
+</plist>
