@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/Users/flippackstation5/python_scripts/flippy_slack/venv/bin/python3</string>
-        <string>/Users/flippackstation5/python_scripts/flippy_slack/flippyslack.py</string>
+        <string>/Users/flippackstation5/python_scripts/flippy_slack/flippy_slack.py</string>
     </array>
     <key>StartInterval</key>
     <integer>21600</integer> <!-- six hours -->
